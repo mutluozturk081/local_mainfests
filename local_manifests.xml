@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/gm/GM8_sprout" name="mutluozturk081/android_device_gm_GM8_sprout.git" remote="github" revision="crdroid-11.0" />
+ <project path="vendor/gm/GM8_sprout" name="mutluemir081/android_vendor_gm_GM8_sprout.git" remote="github" revision="arrow-11.0" />
+ <project path="kernel/gm/msm8937" name="mutluemir081/android_kernel_gm_msm8937.git" remote="github" revision="arrow-11.0" />
+ 
+</manifest>
